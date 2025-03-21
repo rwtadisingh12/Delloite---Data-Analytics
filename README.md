@@ -1,7 +1,3 @@
-Here's a professional **README** file for your GitHub repository to showcase your work effectively:  
-
----
-
 # 📊 **Factory Device Unhealthiness Analysis - Tableau Dashboard**  
 
 ## 🚀 Project Overview  
